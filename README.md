@@ -22,7 +22,7 @@ $ python3 wex.py -k key.txt -f file.txt -o file.enc
 $ python3 wex.py -k key.txt -f file.enc -o file.txt
 ```
 
-!["result.png"](/home/fayred/Documents/programmation/python/wex/assets/01.png)
+!["result.png"](assets/01.png)
 
 ### 📃 Help
 
